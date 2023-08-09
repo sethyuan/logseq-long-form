@@ -15,3 +15,9 @@
 ## 使用展示
 
 https://github.com/sethyuan/logseq-long-form/assets/3410293/0e08c4a6-5519-4fdc-bd6b-c75d0f462d66
+
+## 加入社群
+
+请扫以下二维码加我微信，我拉您进群。微信群仅用来讨论插件相关主题。
+
+![](./assets/wx.jpg)
