@@ -14,7 +14,13 @@
 
 ## 使用展示
 
-https://github.com/sethyuan/logseq-long-form/assets/3410293/0e08c4a6-5519-4fdc-bd6b-c75d0f462d66
+### 进入/退出长文模式
+
+### 标题
+
+### 辅助动效
+
+### Long Form + TOC Generator
 
 ## 加入社群
 
