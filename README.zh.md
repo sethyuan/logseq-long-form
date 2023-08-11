@@ -16,11 +16,19 @@
 
 ### 进入/退出长文模式
 
+https://github.com/sethyuan/logseq-long-form/assets/3410293/9a1a2689-e606-4ec7-a4dc-e899d6480473
+
 ### 标题
+
+https://github.com/sethyuan/logseq-long-form/assets/3410293/ef92672a-8692-4665-ab6c-27938cebe056
 
 ### 辅助动效
 
+https://github.com/sethyuan/logseq-long-form/assets/3410293/683107a9-1d68-42c2-a41c-18f4e7b8b00c
+
 ### Long Form + TOC Generator
+
+https://github.com/sethyuan/logseq-long-form/assets/3410293/0147a54e-9dee-4f6d-99eb-9bb909d4303d
 
 ## 加入社群
 
