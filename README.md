@@ -20,6 +20,12 @@ https://github.com/sethyuan/logseq-long-form/assets/3410293/9a1a2689-e606-4ec7-a
 
 ### Headings
 
+#### Markdown Headings
+
+https://github.com/sethyuan/logseq-long-form/assets/3410293/fd82b82a-a232-4ec7-83bf-96ba4c725bd4
+
+#### Auto Headings
+
 https://github.com/sethyuan/logseq-long-form/assets/3410293/ef92672a-8692-4665-ab6c-27938cebe056
 
 ### Visual Aids
