@@ -32,7 +32,11 @@ https://github.com/sethyuan/logseq-long-form/assets/3410293/683107a9-1d68-42c2-a
 
 ### 列表
 
+https://github.com/sethyuan/logseq-long-form/assets/3410293/bd768b71-dad5-44b6-9e71-319cc45f2b67
+
 ### 可视缩进
+
+https://github.com/sethyuan/logseq-long-form/assets/3410293/22883e6e-4aee-442e-88dd-7900c921a656
 
 ### Long Form + TOC Generator
 
