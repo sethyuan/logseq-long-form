@@ -32,6 +32,10 @@ https://github.com/sethyuan/logseq-long-form/assets/3410293/ef92672a-8692-4665-a
 
 https://github.com/sethyuan/logseq-long-form/assets/3410293/683107a9-1d68-42c2-a41c-18f4e7b8b00c
 
+### Lists
+
+### Visual Indentation
+
 ### Long Form + TOC Generator
 
 https://github.com/sethyuan/logseq-long-form/assets/3410293/0147a54e-9dee-4f6d-99eb-9bb909d4303d
