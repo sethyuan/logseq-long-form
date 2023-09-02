@@ -32,7 +32,7 @@ https://github.com/sethyuan/logseq-long-form/assets/3410293/683107a9-1d68-42c2-a
 
 ### 列表
 
-https://github.com/sethyuan/logseq-long-form/assets/3410293/bd768b71-dad5-44b6-9e71-319cc45f2b67
+https://github.com/sethyuan/logseq-long-form/assets/3410293/428e206f-cc8e-4714-a59e-4365daa6eef2
 
 ### 可视缩进
 
