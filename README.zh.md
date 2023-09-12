@@ -46,6 +46,10 @@ https://github.com/sethyuan/logseq-long-form/assets/3410293/0147a54e-9dee-4f6d-9
 
 https://github.com/sethyuan/logseq-long-form/assets/3410293/5a43a384-34aa-47e2-a86b-fa2f9c22bebe
 
+### 元数据块
+
+https://github.com/sethyuan/logseq-long-form/assets/3410293/fc8fedee-ddcf-4f71-924a-31b1fa1bd6c7
+
 ## 加入社群
 
 请扫以下二维码加我微信，我拉您进群。微信群仅用来讨论插件相关主题。
