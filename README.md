@@ -12,6 +12,17 @@ A long form editing experience for Logseq.
 1. Load the unzipped folder (named `logseq-long-form`) by clicking on the `Load unpacked plugin` button on the plugins modal. ![](./assets/load_plugin.png)
 1. You should now see the plugin being installed. ![](./assets/plugin_installed.png)
 
+## Features
+
+- An globally toggleable long-form mode offering a nice long-form writing experience.
+- Automatic indentation management (supports indent/outdent for both markdown headings and auto headings).
+- A configurable shortcut for toggling auto heading.
+- Visual effects to clearly indicate block nesting relationships.
+- Easy writing of ordered and unordered lists.
+- A special tag (`#.indent`) for visually indenting a block.
+- Each block can have a meta block, where you can write anything you normally would not like to display.
+- The best markdown export you can find on Logseq, better than the built-in one.
+
 ## Usage
 
 ### Enter/Exit Long Form Mode
