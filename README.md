@@ -19,7 +19,7 @@ A long form editing experience for Logseq.
 - A configurable shortcut for toggling auto heading.
 - Visual effects to clearly indicate block nesting relationships.
 - Easy writing of ordered and unordered lists.
-- A special tag (`#.indent`) for visually indenting a block.
+- Special tags (`#.indent` and `#.indent-children`) for visually indenting a block or its children.
 - Each block can have a meta block, where you can write anything you normally would not like to display.
 - The best markdown export you can find on Logseq, better than the built-in one.
 - An accurate word count that's not based on the markdown but what you actually see on the screen.
