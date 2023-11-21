@@ -50,7 +50,7 @@ https://github.com/sethyuan/logseq-long-form/assets/3410293/428e206f-cc8e-4714-a
 
 ### Visual Indentation
 
-https://github.com/sethyuan/logseq-long-form/assets/3410293/22883e6e-4aee-442e-88dd-7900c921a656
+https://github.com/sethyuan/logseq-long-form/assets/3410293/3d6f2009-60b8-492a-a6c5-1ce655fb6638
 
 ### Long Form + TOC Generator
 
