@@ -64,6 +64,10 @@ https://github.com/sethyuan/logseq-long-form/assets/3410293/5a43a384-34aa-47e2-a
 
 https://github.com/sethyuan/logseq-long-form/assets/3410293/fc8fedee-ddcf-4f71-924a-31b1fa1bd6c7
 
+### Manual Grouping
+
+https://github.com/sethyuan/logseq-long-form/assets/3410293/599dcff4-98e8-404f-be51-e96908a72494
+
 ## Join the community
 
 Join the Discord channel [here](https://discord.gg/E7TA5rUuKE) where we discuss everything related to the plugin.
