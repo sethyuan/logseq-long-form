@@ -62,6 +62,10 @@ https://github.com/sethyuan/logseq-long-form/assets/3410293/5a43a384-34aa-47e2-a
 
 https://github.com/sethyuan/logseq-long-form/assets/3410293/fc8fedee-ddcf-4f71-924a-31b1fa1bd6c7
 
+### 手动分组
+
+https://github.com/sethyuan/logseq-long-form/assets/3410293/599dcff4-98e8-404f-be51-e96908a72494
+
 ## 加入社群
 
 请扫以下二维码加我微信，我拉您进群。微信群仅用来讨论插件相关主题。
