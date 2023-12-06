@@ -70,7 +70,7 @@ https://github.com/sethyuan/logseq-long-form/assets/3410293/599dcff4-98e8-404f-b
 
 ### Interstitial Journaling
 
-https://github.com/sethyuan/logseq-long-form/assets/3410293/8ea3fe72-3377-4416-b2ff-bd01ced79ddb
+https://github.com/sethyuan/logseq-long-form/assets/3410293/fbc31684-55a0-4c6a-9a02-d0a641117420
 
 ## Join the community
 
