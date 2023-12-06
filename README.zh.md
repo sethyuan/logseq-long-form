@@ -66,6 +66,10 @@ https://github.com/sethyuan/logseq-long-form/assets/3410293/fc8fedee-ddcf-4f71-9
 
 https://github.com/sethyuan/logseq-long-form/assets/3410293/599dcff4-98e8-404f-be51-e96908a72494
 
+### 间隙日志
+
+https://github.com/sethyuan/logseq-long-form/assets/3410293/8ea3fe72-3377-4416-b2ff-bd01ced79ddb
+
 ## 加入社群
 
 请扫以下二维码加我微信，我拉您进群。微信群仅用来讨论插件相关主题。
