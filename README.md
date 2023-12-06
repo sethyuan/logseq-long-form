@@ -68,6 +68,10 @@ https://github.com/sethyuan/logseq-long-form/assets/3410293/fc8fedee-ddcf-4f71-9
 
 https://github.com/sethyuan/logseq-long-form/assets/3410293/599dcff4-98e8-404f-be51-e96908a72494
 
+### Interstitial Journaling
+
+https://github.com/sethyuan/logseq-long-form/assets/3410293/8ea3fe72-3377-4416-b2ff-bd01ced79ddb
+
 ## Join the community
 
 Join the Discord channel [here](https://discord.gg/E7TA5rUuKE) where we discuss everything related to the plugin.
