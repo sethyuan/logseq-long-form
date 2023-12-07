@@ -74,6 +74,10 @@ https://github.com/sethyuan/logseq-long-form/assets/3410293/599dcff4-98e8-404f-b
 
 https://github.com/sethyuan/logseq-long-form/assets/3410293/fbc31684-55a0-4c6a-9a02-d0a641117420
 
+### Content Layouts
+
+https://github.com/sethyuan/logseq-long-form/assets/3410293/0cdaaa07-2516-432a-9541-c5e361a630f3
+
 ## Join the community
 
 Join the Discord channel [here](https://discord.gg/E7TA5rUuKE) where we discuss everything related to the plugin.
