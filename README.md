@@ -23,6 +23,8 @@ A long form editing experience for Logseq.
 - Each block can have a meta block, where you can write anything you normally would not like to display.
 - The best markdown export you can find on Logseq, better than the built-in one.
 - An accurate word count that's not based on the markdown but what you actually see on the screen.
+- Special formatting for interstitial journal times.
+- Several content layouts.
 
 ## Usage
 
