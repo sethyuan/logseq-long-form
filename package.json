@@ -1,0 +1,9 @@
+{
+  "name": "Long Form",
+  "version": "1.4.5",
+  "main": "dist/index.html",
+  "logseq": {
+    "id": "_sethyuan-logseq-long-form",
+    "icon": "./icon.png"
+  }
+}
