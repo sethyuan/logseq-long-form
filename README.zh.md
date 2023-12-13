@@ -62,6 +62,10 @@ https://github.com/sethyuan/logseq-long-form/assets/3410293/3d6f2009-60b8-492a-a
 
 https://github.com/sethyuan/logseq-long-form/assets/3410293/0147a54e-9dee-4f6d-99eb-9bb909d4303d
 
+### 字数统计
+
+https://github.com/sethyuan/logseq-long-form/assets/3410293/27f10d90-1ac7-4132-9ca2-5f0694794590
+
 ### 导出 Markdown
 
 https://github.com/sethyuan/logseq-long-form/assets/3410293/5a43a384-34aa-47e2-a86b-fa2f9c22bebe
