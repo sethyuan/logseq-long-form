@@ -6,6 +6,12 @@
 
 ## 如何安装
 
+### 插件市场
+
+在插件市场中搜索 Long Form 并安装。
+
+### 手动安装
+
 1. 从 [Releases](https://gitee.com/sethyuan/logseq-long-form/releases) 页面下载最新的 zip 文件。
 1. 将压缩文件解压到你想要存储插件的文件夹中。
 1. 在 Logseq 中开启开发者模式。 ![](./assets/developer_mode.png)
