@@ -1,5 +1,9 @@
 English | [中文](README.zh.md)
 
+> ⚠️ **Warning**
+> 
+> This plugin is not compatible with Logseq DB versions!
+
 # logseq-plugin-long-form
 
 A long form editing experience for Logseq.
