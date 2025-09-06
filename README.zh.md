@@ -1,5 +1,9 @@
 [English](README.md) | 中文
 
+> ⚠️ **警告**
+> 
+> 此插件与Logseq DB版本不兼容！
+
 # logseq-plugin-long-form
 
 在 Logseq 中体验长文写作。
