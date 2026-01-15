@@ -3,6 +3,8 @@ English | [中文](README.zh.md)
 > ⚠️ **Warning**
 > 
 > This plugin is not compatible with Logseq DB versions!
+> 
+> For a better bi-directional outliner see [Orca Note](https://www.orca-studio.com/orcanote/).
 
 # logseq-plugin-long-form
 
